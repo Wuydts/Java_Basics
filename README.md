@@ -11,3 +11,4 @@ Collection of programming samples from when I was learning Java
 | Barking Dog  | [Barking Dog Directory](https://github.com/Wuydts/Java_Basics/blob/master/Java_Basics/BarkingDog.Java)|
 | Leap Year  | [Leap Year Directory](https://github.com/Wuydts/Java_Basics/blob/master/Java_Basics/isLeapYear.java)|
 | Area Calculator Overloading  | [Area Overloading Directory](https://github.com/Wuydts/Java_Basics/blob/master/Java_Basics/AreaCalculatorOverloading.java)|
+| Minutes to Years And Days  | [Minutes to Years And Days Directory](https://github.com/Wuydts/Java_Basics/blob/master/Java_Basics/MinutestoYearsAndDays.Java)|
