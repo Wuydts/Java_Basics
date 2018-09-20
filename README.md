@@ -1,7 +1,6 @@
 Collection of programming samples from when I was learning Java
 
 ## Directory Listings:
-
 [Java Methods and Control Flow Directory](https://github.com/Wuydts/Java_Basics/tree/master/Java_Basics) |
 
 ## Java Methods and Control Flow Listing
