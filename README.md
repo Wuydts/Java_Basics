@@ -1,4 +1,4 @@
-!!! Under Construction !!!
+Collection of programming samples from when I was learning Java
 
 ## Directory Listings:
 
