@@ -4,7 +4,7 @@ Collection of programming samples from when I was learning Java
 
 [Java Methods and Control Flow Directory](https://github.com/Wuydts/Java_Basics/tree/master/Java_Basics) |
 
-## Java Methods and Control Flow Directory
+## Java Methods and Control Flow Listing
 | Project | Directory | 
 | - | - |
 | KiloByte To MegaByte Converter | [Converter Directory](https://github.com/Wuydts/Java_Basics/blob/master/Java_Basics/MegaByteConverter.java)|
