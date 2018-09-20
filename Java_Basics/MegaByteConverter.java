@@ -24,10 +24,5 @@ public class Main {
         System.out.println(kiloBytes + " KB = " + megabytes + " MB and " + remainder + " KB");
         }
         //1024 kilobytes = 1 megabyte
-        // "XX KB = YY MB and ZZ KB".
-        // XX represents the orginal value kilobytes.
-        // YY represented the calculated megabyes. 
-        // ZZ represents the remaining kilobytes. 
-     
     }    
 }
