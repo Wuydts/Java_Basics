@@ -2,7 +2,7 @@ Collection of programming samples from when I was learning Java
 
 ## Directory Listings:
 [Methods and Control Flow Directory](https://github.com/Wuydts/Java_Basics/tree/master/Java_Basics) |
-[Classes, Constructors, and Inheritance |
+[Classes, Constructors, and Inheritance] |
 [Composition, Encapsulation, and Polymorphism] |
 [Arrays, Lists, Autoboxing and Unboxing] |
 [Inner and Abstaract Classes and Interfaces] |
