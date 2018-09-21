@@ -16,3 +16,4 @@ Collection of programming samples from when I was learning Java
 | Leap Year  | [Leap Year Directory](https://github.com/Wuydts/Java_Basics/blob/master/Java_Basics/isLeapYear.java)|
 | Area Calculator Overloading  | [Area Overloading Directory](https://github.com/Wuydts/Java_Basics/blob/master/Java_Basics/AreaCalculatorOverloading.java)|
 | Minutes to Years And Days  | [Minutes to Years And Days Directory](https://github.com/Wuydts/Java_Basics/blob/master/Java_Basics/MinutestoYearsAndDays.Java)|
+| Reading and Date Format  | [Reading and Date Format Directory](https://github.com/Wuydts/Java_Basics/blob/master/Java_Basics/ReadingAndDateFormat.java)|
