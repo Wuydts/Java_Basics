@@ -4,7 +4,7 @@ Collection of programming samples from when I was learning Java
 ## Directory Listings:
 [Methods and Control Flow Directory](https://github.com/Wuydts/Java_Basics/tree/master/Java_Basics) |
 [Classes, Constructors, and Inheritance](https://github.com/Wuydts/Java_Basics/tree/master/Classes_Constructors_and_Inheritance) |
-[Composition, Encapsulation, and Polymorphism] |
+[Composition, Encapsulation, and Polymorphism](https://github.com/Wuydts/Java_Basics/tree/master/Composition_Encapsulation_and_Polymorphism) |
 [Arrays, Lists, Autoboxing and Unboxing] |
 [Inner and Abstaract Classes and Interfaces] |
 [Collections]  
@@ -26,3 +26,9 @@ Collection of programming samples from when I was learning Java
 | Simple Class | [Simple Class Directory](https://github.com/Wuydts/Java_Basics/tree/master/Classes_Constructors_and_Inheritance/Classes/src)| [Simple Project Directory](https://github.com/Wuydts/Java_Basics/tree/master/Classes_Constructors_and_Inheritance/Classes) |
 | Constructor Overloading | [Constructor Overloading Class Directory](https://github.com/Wuydts/Java_Basics/tree/master/Classes_Constructors_and_Inheritance/Constructors/src)| [Constructor Overloading Project Directory](https://github.com/Wuydts/Java_Basics/tree/master/Classes_Constructors_and_Inheritance/Constructors) |
 | Inheritance | [Inheritance Class Directory](https://github.com/Wuydts/Java_Basics/tree/master/Classes_Constructors_and_Inheritance/Inheritance/src)| [Inheritance Project Directory](https://github.com/Wuydts/Java_Basics/tree/master/Classes_Constructors_and_Inheritance/Inheritance) |
+
+
+## Java Composition, Encapsulation, and Polymorphism
+| Project | Class Directory | Project Directory |
+| - | - | - |
+| Composition | [Composition Class Directory](https://github.com/Wuydts/Java_Basics/tree/master/Composition_Encapsulation_and_Polymorphism/Composition/src)| [Composition Project Directory](https://github.com/Wuydts/Java_Basics/tree/master/Composition_Encapsulation_and_Polymorphism/Composition) |
