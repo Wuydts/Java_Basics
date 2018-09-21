@@ -6,7 +6,7 @@ public class Main {
    public static void main(String[] args) 
    {
        /*
-            Wanted to find the age of person dynamically rather than statically having the date assigned. 
+            Wanted to find the age of person dynamically rather than statically having today's date assigned. 
             To do that I had to insert a format that I wanted (in this case just the year), pass it into the SimpleDateFormat, and
             generate today's date utilizing that format... That way I only get the year back rather than the whole date.
        
