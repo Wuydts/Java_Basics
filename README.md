@@ -24,3 +24,4 @@ Collection of programming samples from when I was learning Java
 | Project | Class Directory | Project Directory |
 | - | - | - |
 | Simple Class | [Simple Class Directory](https://github.com/Wuydts/Java_Basics/tree/master/Classes_Constructors_and_Inheritance/Classes/src)| [Simple Project Directory](https://github.com/Wuydts/Java_Basics/tree/master/Classes_Constructors_and_Inheritance/Classes) |
+| Constructor Overloading | [Constructor Overloading Class Directory](https://github.com/Wuydts/Java_Basics/tree/master/Classes_Constructors_and_Inheritance/Constructors/src)| [Constructor Overloading Project Directory](https://github.com/Wuydts/Java_Basics/tree/master/Classes_Constructors_and_Inheritance/Constructors) |
