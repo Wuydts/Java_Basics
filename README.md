@@ -32,3 +32,4 @@ Collection of programming samples from when I was learning Java
 | Project | Class Directory | Project Directory |
 | - | - | - |
 | Composition | [Composition Class Directory](https://github.com/Wuydts/Java_Basics/tree/master/Composition_Encapsulation_and_Polymorphism/Composition/src)| [Composition Project Directory](https://github.com/Wuydts/Java_Basics/tree/master/Composition_Encapsulation_and_Polymorphism/Composition) |
+| Encapsulation | [Encapsulation Class Directory](https://github.com/Wuydts/Java_Basics/tree/master/Composition_Encapsulation_and_Polymorphism/Encapsulation/src)| [Encapsulation Project Directory](https://github.com/Wuydts/Java_Basics/tree/master/Composition_Encapsulation_and_Polymorphism/Encapsulation) |
