@@ -5,7 +5,7 @@ Collection of programming samples from when I was learning Java
 [Methods and Control Flow Directory](https://github.com/Wuydts/Java_Basics/tree/master/Java_Basics) |
 [Classes, Constructors, and Inheritance](https://github.com/Wuydts/Java_Basics/tree/master/Classes_Constructors_and_Inheritance) |
 [Composition, Encapsulation, and Polymorphism](https://github.com/Wuydts/Java_Basics/tree/master/Composition_Encapsulation_and_Polymorphism) |
-[Arrays, Lists, Autoboxing and Unboxing] |
+[Arrays, Lists, Autoboxing and Unboxing](https://github.com/Wuydts/Java_Basics/tree/master/Arrays_Lists_Autoboxing_and_Unboxing) |
 [Inner and Abstaract Classes and Interfaces] |
 [Collections]  
 
