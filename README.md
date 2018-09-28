@@ -5,7 +5,7 @@ Collection of programming samples from when I was learning Java
 [Methods and Control Flow Directory](https://github.com/Wuydts/Java_Basics/tree/master/Java_Basics) |
 [Classes, Constructors, and Inheritance](https://github.com/Wuydts/Java_Basics/tree/master/Classes_Constructors_and_Inheritance) |
 [Composition, Encapsulation, and Polymorphism](https://github.com/Wuydts/Java_Basics/tree/master/Composition_Encapsulation_and_Polymorphism) |
-[Arrays, Lists, Autoboxing and Unboxing](https://github.com/Wuydts/Java_Basics/tree/master/Arrays_Lists_Autoboxing_and_Unboxing) |
+[Arrays, Lists, Autoboxing and Unboxing, Linked Lists](https://github.com/Wuydts/Java_Basics/tree/master/Arrays_Lists_Autoboxing_and_Unboxing) |
 [Inner and Abstaract Classes and Interfaces] |
 [Collections]  
 
@@ -35,8 +35,8 @@ Collection of programming samples from when I was learning Java
 | Encapsulation | [Encapsulation Class Directory](https://github.com/Wuydts/Java_Basics/tree/master/Composition_Encapsulation_and_Polymorphism/Encapsulation/src)| [Encapsulation Project Directory](https://github.com/Wuydts/Java_Basics/tree/master/Composition_Encapsulation_and_Polymorphism/Encapsulation) |
 | Polymorphism | [Polymorphism Class Directory](https://github.com/Wuydts/Java_Basics/tree/master/Composition_Encapsulation_and_Polymorphism/Polymorphism/src)| [Polymorphism Project Directory](https://github.com/Wuydts/Java_Basics/tree/master/Composition_Encapsulation_and_Polymorphism/Polymorphism) |
 
-## Java Arrays, Lists, Autoboxing and Unboxing
-| Project |  Class Directory | Project Directory |
+## Java Arrays, Lists, Autoboxing and Unboxing, Linked Lists
+| Project |  Class Directory | Project Directory | 
 | - | - | - |
 | Arrays  | [Arrays Class Directory](https://github.com/Wuydts/Java_Basics/blob/master/Arrays_Lists_Autoboxing_and_Unboxing/Array/src/Main.java)| [Array Project Directory](https://github.com/Wuydts/Java_Basics/tree/master/Arrays_Lists_Autoboxing_and_Unboxing/Array) |
 | Array Lists | [Array List Class Directory](https://github.com/Wuydts/Java_Basics/tree/master/Arrays_Lists_Autoboxing_and_Unboxing/ArrayLists/src) | [Array List Project Directory](https://github.com/Wuydts/Java_Basics/tree/master/Arrays_Lists_Autoboxing_and_Unboxing/ArrayLists)|
