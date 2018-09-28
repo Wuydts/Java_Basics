@@ -35,3 +35,7 @@ Collection of programming samples from when I was learning Java
 | Encapsulation | [Encapsulation Class Directory](https://github.com/Wuydts/Java_Basics/tree/master/Composition_Encapsulation_and_Polymorphism/Encapsulation/src)| [Encapsulation Project Directory](https://github.com/Wuydts/Java_Basics/tree/master/Composition_Encapsulation_and_Polymorphism/Encapsulation) |
 | Polymorphism | [Polymorphism Class Directory](https://github.com/Wuydts/Java_Basics/tree/master/Composition_Encapsulation_and_Polymorphism/Polymorphism/src)| [Polymorphism Project Directory](https://github.com/Wuydts/Java_Basics/tree/master/Composition_Encapsulation_and_Polymorphism/Polymorphism) |
 
+## Java Arrays, Lists, Autoboxing and Unboxing
+| Project |  Directory | 
+| - | - | 
+| Arrays  | [Arrays Directory](https://github.com/Wuydts/Java_Basics/blob/master/Arrays_Lists_Autoboxing_and_Unboxing/Arrays.java)|
