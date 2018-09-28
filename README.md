@@ -38,5 +38,5 @@ Collection of programming samples from when I was learning Java
 ## Java Arrays, Lists, Autoboxing and Unboxing
 | Project |  Class Directory | Project Directory |
 | - | - | - |
-| Arrays  | [Arrays Class Directory](https://github.com/Wuydts/Java_Basics/blob/master/Arrays_Lists_Autoboxing_and_Unboxing/Arrays.java)| Doesn't Exist |
+| Arrays  | [Arrays Class Directory](https://github.com/Wuydts/Java_Basics/blob/master/Arrays_Lists_Autoboxing_and_Unboxing/Array/src/Main.java)| [Array Project Directory](https://github.com/Wuydts/Java_Basics/tree/master/Arrays_Lists_Autoboxing_and_Unboxing/Array) |
 | Array Lists | [Array List Class Directory](https://github.com/Wuydts/Java_Basics/tree/master/Arrays_Lists_Autoboxing_and_Unboxing/ArrayLists/src) | [Array List Project Directory](https://github.com/Wuydts/Java_Basics/tree/master/Arrays_Lists_Autoboxing_and_Unboxing/ArrayLists)|
